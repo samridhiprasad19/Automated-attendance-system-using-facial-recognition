@@ -1,5 +1,10 @@
 # Automated-attendance-system-using-facial-recognition
-This is my final year btech project. The main idea behind this project is to automate the attendance system. This project uses facial recognition to mark the attendance
-We observe that a lot of time is being wasted in taking attendance using traditional methods and is prone to errors.
-In this project we capture the face of studend using webcam which is streaming video and capture the image and save the image in the local folder in the desktop as shown in the file face-detect.
-After that we match the face from the database and attendance is marked.
+This is my final year btech project. The main motivation to go for this project was the slow and inefficient traditional manual
+attendance system. 
+The objective of this system is to present an automated system for human face recognition for an
+organization or institute to mark the attendance of their students or employees.
+1. This product compares selected facial features from the image and a facial database. It is
+typically used in security systems and can be compared to other bio metrics such as fingerprint or eye iris recognition systems.
+2. If match is found then it will mark the attendance.
+3. If match is not found then admin will place a query whether to add student data and accordingly
+it will add or reject the student.
